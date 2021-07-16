@@ -1,0 +1,12 @@
+body{
+    font-family: raleway;
+    width: 800px;
+}
+
+a {
+    font-size: 24px;
+    font-weight: 200;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+}
